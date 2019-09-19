@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:color="#A29C9C"
+    tools:targetApi="lollipop">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="1dp" />
+            <solid android:color="#FFFFFF" />
+            <corners android:radius="10dp" /> <!--create circle background-->
+        </shape>
+    </item>
+
+</ripple>
